@@ -709,7 +709,7 @@ ul {
   gap: 15px;
   align-items: center;
   padding: 17px;
-  margin-right: 17px;
+  margin-right: 20px;
   border: 1px solid var(--border);
   border-radius: 12px;
   background: var(--surface);
