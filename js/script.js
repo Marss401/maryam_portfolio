@@ -77,7 +77,6 @@ if (typingElement) {
         wordIndex = (wordIndex + 1) % words.length;
       }
     }
-
     setTimeout(type, deleting ? 45 : 75);
   };
 
