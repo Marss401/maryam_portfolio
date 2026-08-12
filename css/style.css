@@ -690,9 +690,9 @@ ul {
 }
 
 .contact-grid {
-  display: grid;
+  /* display: grid;
   grid-template-columns: 0.75fr 1.25fr;
-  gap: 45px;
+  gap: 45px; */
   align-items: start;
 }
 
