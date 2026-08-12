@@ -514,7 +514,7 @@ ul {
 
 /* Services */
 .service {
-  background: var(--bg);
+  background: var(--surface);
 }
 
 .services-grid {
@@ -561,7 +561,7 @@ ul {
 
 /* Projects */
 .portfolio {
-  background: var(--surface);
+  background: var(--bg);
 }
 
 .projects-grid {
@@ -671,7 +671,7 @@ ul {
 
 /* Contact */
 .contact {
-  background: var(--bg);
+  background: var(--surface);
 }
 
 .contact-intro {
@@ -817,7 +817,7 @@ ul {
   padding: 25px 35px;
   text-align: center;
   border-top: 1px solid var(--border);
-  background: var(--surface);
+  background: var(--bg);
   color: var(--text-muted);
   font-size: 12px;
 }
