@@ -753,6 +753,7 @@ ul {
   gap: 10px;
   margin-top: 10px;
   align-items: center;
+  justify-content: center;
 }
 
 /* .contact-form {
